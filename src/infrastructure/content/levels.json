@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "syllables": [
+      { "id": "ma", "text": "MA" },
+      { "id": "ma2", "text": "MA" }
+    ],
+    "targetWord": "MAMA",
+    "instruction": "En este nivel aprenderemos las sílabas MA. Escuche y repita."
+  },
+  {
+    "id": 2,
+    "syllables": [
+      { "id": "pa", "text": "PA" },
+      { "id": "pa2", "text": "PA" }
+    ],
+    "targetWord": "PAPA",
+    "instruction": "En este nivel aprenderemos las sílabas PA. Escuche y repita."
+  },
+  {
+    "id": 3,
+    "syllables": [
+      { "id": "sa", "text": "SA" },
+      { "id": "la", "text": "LA" }
+    ],
+    "targetWord": "SALA",
+    "instruction": "En este nivel aprenderemos las sílabas SA y LA. Forme la palabra SALA."
+  },
+  {
+    "id": 4,
+    "syllables": [
+      { "id": "me", "text": "ME" },
+      { "id": "sa2", "text": "SA" }
+    ],
+    "targetWord": "MESA",
+    "instruction": "En este nivel aprenderemos las sílabas ME y SA. Forme la palabra MESA."
+  },
+  {
+    "id": 5,
+    "syllables": [
+      { "id": "ca", "text": "CA" },
+      { "id": "sa3", "text": "SA" }
+    ],
+    "targetWord": "CASA",
+    "instruction": "En este nivel aprenderemos las sílabas CA y SA. Forme la palabra CASA."
+  },
+  {
+    "id": 6,
+    "syllables": [
+      { "id": "pe", "text": "PE" },
+      { "id": "lo", "text": "LO" }
+    ],
+    "targetWord": "PELO",
+    "instruction": "En este nivel aprenderemos PE y LO. Forme la palabra PELO."
+  },
+  {
+    "id": 7,
+    "syllables": [
+      { "id": "pi", "text": "PI" },
+      { "id": "so", "text": "SO" }
+    ],
+    "targetWord": "PISO",
+    "instruction": "En este nivel aprenderemos PI y SO. Forme la palabra PISO."
+  },
+  {
+    "id": 8,
+    "syllables": [
+      { "id": "ga", "text": "GA" },
+      { "id": "to", "text": "TO" }
+    ],
+    "targetWord": "GATO",
+    "instruction": "En este nivel aprenderemos GA y TO. Forme la palabra GATO."
+  },
+  {
+    "id": 9,
+    "syllables": [
+      { "id": "pa3", "text": "PA" },
+      { "id": "to2", "text": "TO" }
+    ],
+    "targetWord": "PATO",
+    "instruction": "En este nivel aprenderemos PA y TO. Forme la palabra PATO."
+  },
+  {
+    "id": 10,
+    "syllables": [
+      { "id": "ni", "text": "NI" },
+      { "id": "no", "text": "NO" }
+    ],
+    "targetWord": "NINO",
+    "instruction": "En este nivel aprenderemos NI y NO. Forme la palabra NIÑO."
+  },
+  {
+    "id": 11,
+    "syllables": [
+      { "id": "lu", "text": "LU" },
+      { "id": "na", "text": "NA" }
+    ],
+    "targetWord": "LUNA",
+    "instruction": "En este nivel aprenderemos LU y NA. Forme la palabra LUNA."
+  },
+  {
+    "id": 12,
+    "syllables": [
+      { "id": "so2", "text": "SO" },
+      { "id": "fa", "text": "FA" }
+    ],
+    "targetWord": "SOFA",
+    "instruction": "En este nivel aprenderemos SO y FA. Forme la palabra SOFÁ."
+  },
+  {
+    "id": 13,
+    "syllables": [
+      { "id": "ro", "text": "RO" },
+      { "id": "sa4", "text": "SA" }
+    ],
+    "targetWord": "ROSA",
+    "instruction": "En este nivel aprenderemos RO y SA. Forme la palabra ROSA."
+  },
+  {
+    "id": 14,
+    "syllables": [
+      { "id": "bo", "text": "BO" },
+      { "id": "ca", "text": "CA" }
+    ],
+    "targetWord": "BOCA",
+    "instruction": "En este nivel aprenderemos BO y CA. Forme la palabra BOCA."
+  },
+  {
+    "id": 15,
+    "syllables": [
+      { "id": "ma2", "text": "MA" },
+      { "id": "no", "text": "NO" }
+    ],
+    "targetWord": "MANO",
+    "instruction": "En este nivel aprenderemos MA y NO. Forme la palabra MANO."
+  }
+]
